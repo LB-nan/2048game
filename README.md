@@ -1,2 +1,2 @@
 # 2048
-· https://oldpubcat.github.io/2048game/
+· https://LB-nan.github.io/2048game/
